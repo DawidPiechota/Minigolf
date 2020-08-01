@@ -1,7 +1,7 @@
 # Minigolf
 
 Minigolf game with support for custom levels.  
-(Best-score feature is incomplete)
+(Best-score feature is incomplete)  
 Realised using ncurses 6.0 as "graphics library"  
 
 ---
