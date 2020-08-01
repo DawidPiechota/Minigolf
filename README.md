@@ -7,7 +7,7 @@ Realised using ncurses 6.0 as "graphics library"
 
 Compile using GNU C++ Compiler:
 ```bash
-g++ -std=c++11 -o train train.cpp -lncurses
+g++ -std=c++11 -o minigolf minigolf.cpp -lncurses
 ```
 
 ---
